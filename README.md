@@ -1,3 +1,5 @@
+![Alt Text](camera-store.jpg)
+
 #Tell me how to remove them locally and remotely
 
 #-------------Removing Branch Locally =>
